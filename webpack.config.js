@@ -13,9 +13,15 @@ module.exports = {
     path: __dirname + '/dist',
     filename: "index-bundle.js"
   },
+  resolve: {
+    extensions: ['','.js','.jsx','.json']
+  },
   module: {
     loaders: [
       { test: /\.js$/, exclude: /node_modules/, loader: "babel-loader" }
+    ],
+    rules: [
+      { test: /\.json$/, loader: "json", include: './' }
     ]
   },
   plugins: [HTMLWebpackPluginConfig]

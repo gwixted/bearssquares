@@ -1,0 +1,138 @@
+[
+  {
+    "week": 1,
+    "day": "Sunday",
+    "date": "September 10",
+    "time": "12:00 pm",
+    "opponent": "Falcons",
+    "location": "home"
+  },
+  {
+    "week": 2,
+    "day": "Sunday",
+    "date": "September 17",
+    "time": "12:00 pm",
+    "opponent": "Bucs",
+    "location": "away"
+  },
+  {
+    "week": 3,
+    "day": "Sunday",
+    "date": "September 24",
+    "time": "12:00 pm",
+    "opponent": "Steelers",
+    "location": "home"
+  },
+  {
+    "week": 4,
+    "day": "Thursday",
+    "date": "September 28",
+    "time": "7:30 pm",
+    "opponent": "Packers",
+    "location": "away"
+  },
+  {
+    "week": 5,
+    "day": "Monday",
+    "date": "October 9",
+    "time": "7:30 pm",
+    "opponent": "Vikings",
+    "location": "home"
+  },
+  {
+    "week": 6,
+    "day": "Sunday",
+    "date": "October 15",
+    "time": "12:00 pm",
+    "opponent": "Ravens",
+    "location": "away"
+  },
+  {
+    "week": 7,
+    "day": "Sunday",
+    "date": "October 22",
+    "time": "12:00 pm",
+    "opponent": "Panthers",
+    "location": "home"
+  },
+  {
+    "week": 8,
+    "day": "Sunday",
+    "date": "October 29",
+    "time": "12:00 pm",
+    "opponent": "Saints",
+    "location": "away"
+  },
+  {
+    "week": 9,
+    "day": "BYE",
+    "date": "",
+    "time": "",
+    "opponent": "BYE",
+    "location": ""
+  },
+  {
+    "week": 10,
+    "day": "Sunday",
+    "date": "November 12",
+    "time": "12:00 pm",
+    "opponent": "Packers",
+    "location": "home"
+  },
+  {
+    "week": 11,
+    "day": "Sunday",
+    "date": "November 19",
+    "time": "12:00 pm",
+    "opponent": "Lions",
+    "location": "home"
+  },
+  {
+    "week": 12,
+    "day": "Sunday",
+    "date": "November 26",
+    "time": "12:00 pm",
+    "opponent": "Eagles",
+    "location": "away"
+  },
+  {
+    "week": 13,
+    "day": "Sunday",
+    "date": "December 3",
+    "time": "12:00 pm",
+    "opponent": "49ers",
+    "location": "home"
+  },
+  {
+    "week": 14,
+    "day": "Sunday",
+    "date": "December 10",
+    "time": "12:00 pm",
+    "opponent": "Bengals",
+    "location": "away"
+  },
+  {
+    "week": 15,
+    "day": "Saturday",
+    "date": "December 16",
+    "time": "3:30 pm",
+    "opponent": "Lions",
+    "location": "away"
+  },
+  {
+    "week": 16,
+    "day": "Sunday",
+    "date": "December 24",
+    "time": "12:00 pm",
+    "opponent": "Browns",
+    "location": "home"
+  },
+  {
+    "week": 17,
+    "day": "Sunday",
+    "date": "December 31",
+    "time": "12:00 pm",
+    "opponent": "Vikings",
+    "location": "away"
+  }
+]
